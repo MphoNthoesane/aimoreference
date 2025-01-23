@@ -12,7 +12,7 @@ let availableKeywords = [
     'FAIS - Isithebe','FAIW - Ingwelala',
     'FAJA - Johannesburg FIR','FAJC - Jackalberry','FAJK - Jan Kemp Dorp','FAJO - Johannesburg Oceanic','FAJP - Joubertina',
     'FAKD - Klerksdorp','FAKM - Kimberley','FAKN - Kruger Mpumalanga','FAKP - Komatipoort','FAKR - Krugersdorp','FAKS - Kroonstad','FAKT - Kitty Hawk Aero Estate','FAKU - Kuruman','FAKZ - Kleinsee',
-    'FALA - Lanseria','FALC - Lime Acres','FALD - Londolozi','FALE - King Shaka(La Mercy)','FALI - Lichtenburg','FALL - Lydenburg','FALO - Louis Trichardt (Civil)','FALM - Makhado AFB','FALW - Langebaanweg SAAF','FALY - Ladysmith',
+    'FALA - Lanseria','FALF - Loeriesfontein','FALC - Lime Acres','FALD - Londolozi','FALE - King Shaka(La Mercy)','FALI - Lichtenburg','FALL - Lydenburg','FALO - Louis Trichardt (Civil)','FALM - Makhado AFB','FALW - Langebaanweg SAAF','FALY - Ladysmith',
     'FAMB - Middelburg (Mpumalanga)','FAMC - Middelburg (Eastern Cape)','FAMD - Malamala','FAMG - Margate','FAMI - Marble Hall','FAMJ - Majuba Power Station','FAMK - Madikwe Game','FAMM - George Dick Montshioa','FAMN - Malelane','FAMO - Mossel Bay','FAMP - Madimbo','FAMS - Morning Side','FAMU - Mkuzi',
     'FANC - New Castle','FANS - Nelspruit','FANY - Nylstroom',
     'FAOB - Overberg','FAOH - Oudtshoorn','FAOI - Orient','FAOR - OR Tambo',
